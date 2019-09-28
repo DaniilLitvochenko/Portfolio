@@ -1,13 +1,11 @@
-**Портфолио Литовченко Даниила**
 
 ## Веб-программирование
 #### Лабораторная работа 1
-![test](/home/listas/Изображения/Screen.png)
+![test](/home/listas/Ucheeeba/3 term/Web/portfolio/Screen.png)
 
 #### Лабораторная работа 2
 ###### Упражнение 2-3
-![test](/home/listas/Изображения/Screen 2-3.png)
+![test](/home/listas/Ucheeeba/3 term/Web/portfolio/Screen 2-3.png)
 
 ###### Упражнение 9-3
-<a href="https://daniillitvochenko.github.io/task9-3/">
-##### Ссылка на выполненную работу</a>
+###### [Ссылка на выполненную работу](https://daniillitvochenko.github.io/task9-3/)
