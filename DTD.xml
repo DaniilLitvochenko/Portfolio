@@ -1,0 +1,5 @@
+<? xml version="1.0" encoding="utf-8" ?>
+<!ELEMENT таблица (студент*)>
+<!ELEMENT студент (отметка*)>
+<!ATTLIST студент имя CDATA "">
+<!ATTLIST отметка дисциплина CDATA "">
