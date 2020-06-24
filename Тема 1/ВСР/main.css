@@ -1,0 +1,19 @@
+body {
+  background-color: #00FF11;
+  font: ComicSans, sans-serif;
+}
+
+div {
+  text-align: center;
+  background-color: #00FFFF;
+}
+
+.post {
+  border-radius: 5px;
+}
+
+
+.comment {
+  border-radius: 10px;
+}
+

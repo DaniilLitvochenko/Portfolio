@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE portfolio PUBLIC "LitovchenkoDaniil" "https://kodaktor.ru/?!=dtd_12e2d">
+<portfolio>
+    <my_competencies>
+        <competency name="HTML" value="not great, but not terrible"/>
+		<competency name="Python" value="better than HTML, but not perfect"/>
+        <competency name="CSS" value="not bad"/>
+        <competency name="JS" value="very bad"/>
+    </my_competencies>
+</portfolio>
