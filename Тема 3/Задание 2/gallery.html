@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Галерея</title><meta charset="utf-8">
+ </head>
+ <body>
+  <h2 id="author" title="GossJS">Литовченко Д.В.</h2>
+  <script>{
+  function cacheIm(url){
+  	const img = document.createElement('img');
+    img.src = url;
+    img.width = '150';
+    img.onclick = function() { img.style = 'border: 10px solid green';
+    }
+    return img;
+  };
+	 
+
+  img_urls = ['https://sun9-40.userapi.com/GLmt0s8KGWJ-s4I7ODUW0fX5zD4mJRnnf__FSA/JrPhoZKbEEY.jpg','https://web.archive.org/web/20190304232535if_/https://2ch.hk/b/src/192482394/15517414717470.png','https://arhivach.ng/storage/4/65/4655b3bb62c364dc0ac72a90e7ea1ae9.jpg'];
+  
+  const load_button = document.createElement('button');
+  document.body.appendChild(load_button);
+  load_button.textContent += 'Загрузить изображения';
+  load_button.id = 'load';
+  
+  const handler2 = function() {
+document.body.appendChild(cacheIm('https://sun9-66.userapi.com/c851432/v851432905/1d623a/vC__v1k3AKU.jpg'));
+    elem = document.getElementById('insert');
+    document.body.removeChild(elem);
+  };
+  
+  const handler = function() { 
+    img_urls.forEach(cur=>{
+  	document.body.appendChild(cacheIm(cur));
+    });
+    elem = document.getElementById('load');
+    insert_button.addEventListener('click', handler2);
+    document.body.removeChild(elem);  
+  };
+  load_button.addEventListener('click', handler); 
+  
+  const insert_button = document.createElement('button');
+  document.body.appendChild(insert_button);
+  insert_button.textContent += 'Добавить изображение';
+  insert_button.id = 'insert'; 
+  
+}</script>
+ </body>
+</html>
