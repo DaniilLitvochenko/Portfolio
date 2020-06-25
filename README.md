@@ -46,3 +46,9 @@
  
 ### Тема 3
 #### [График валют(Кодактор)](https://kodaktor.ru/canvas_ec8f0)
+
+### Разное из второго семестра
+#### [Сумматор](http://j95066bn.beget.tech/Litovchenko.php?x=52&y=23)
+#### [Vue](https://www.kodaktor.ru/?!=60d90f8)
+#### [Задание по деплою (Moment)](https://js07052020.herokuapp.com/)
+#### [Задание по деплою PHP-приложения(Moment и биржа)](https://js14052020.herokuapp.com/)
