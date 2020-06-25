@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>АААААААА</title><meta charset="utf-8">
+ </head>
+ <body>
+    <script src="/j/clicker"></script>
+    <script src="/j/out"></script>
+    <script src="/j/dblttl"></script>
+    <script>
+      { console.clear();
+       
+      function makeCanvas(x, y) {
+  	  const canvas = document.createElement('canvas'),
+      ctx = canvas.getContext('2d');
+      canvas.setAttribute('width', x); 
+      canvas.setAttribute('height', y);
+      return{ canvas, ctx };
+      }                       
+       
+      new Clicker(async () => {
+            const { canvas, ctx} = makeCanvas(250,150);
+       		document.body.appendChild(canvas);
+       		ctx.strokeStyle='blue';
+       		ctx.moveTo(75,30);
+       		ctx.lineTo(60, 70);
+       		ctx.lineTo(70,70);
+       		ctx.lineTo(90,70);
+       		ctx.lineTo(75,30);
+       		ctx.moveTo(70,100);
+       		ctx.lineTo(50,70);
+       		ctx.lineTo(100,70);
+       		ctx.lineTo(90,100);
+       		ctx.moveTo(125,100);
+       		const rect = [100,95,5,5];
+       		ctx.strokeRect(...rect);
+            ctx.strike;
+       		ctx.moveTo(150, 30);
+       		ctx.lineTo(150,100);
+       		ctx.lineTo(190,100);
+       		ctx.lineTo(190,60);
+       		ctx.lineTo(150,60);
+       		ctx.lineTo(150,30);
+       		ctx.lineTo(180,30);
+       		ctx.lineTo(180,60);
+       		const rect1 = [200,95,5,5];
+       		ctx.strokeRect(...rect1);
+			ctx.stroke();
+       		
+       		       
+			ctx.strokeStyle = '#83A';
+        	ctx.beginPath();
+			ctx.moveTo(50,100);
+        	ctx.bezierCurveTo(50, 100, 120, 150, 210, 100);
+			ctx.stroke();
+      }, 'Щёлкни');       
+    }
+   </script>
+ </body>
+</html>
+
+
+<!-- 
+https://kodaktor.ru/click_15be9  -- первый вариант, сделанный еще до карантина во время лабы
+https://kodaktor.ru/click_cc265  -- тоже самое, только с дугой
+--> 
+
