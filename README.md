@@ -28,3 +28,19 @@
 
 ### Тема 4
 #### [Линтер](https://github.com/DaniilLitvochenko/Portfolio/tree/master/%D0%A2%D0%B5%D0%BC%D0%B0%204/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201/linter)
+
+## Второй семестр
+### Тема 1
+#### [Миксер цветов(Кодактор)](https://kodaktor.ru/?!=color_f781c)
+#### [Миксер цветов(Репозиторий)](https://github.com/DaniilLitvochenko/Portfolio/tree/master/2%20%D1%81%D0%B5%D0%BC.%20%D0%A2%D0%B5%D0%BC%D0%B0%201/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201)
+#### [Магазин](https://github.com/DaniilLitvochenko/Portfolio/tree/master/2%20%D1%81%D0%B5%D0%BC.%20%D0%A2%D0%B5%D0%BC%D0%B0%201/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202/Store)
+#### [Магазин(GitHub Pages)](https://daniillitvochenko.github.io/store/)
+
+### Тема 2
+#### [Canvas инициалы(Кодактор)](https://kodaktor.ru/click_cc265)
+#### [Canvas инициалы(Репозиторий)](https://github.com/DaniilLitvochenko/Portfolio/tree/master/2%20%D1%81%D0%B5%D0%BC.%20%D0%A2%D0%B5%D0%BC%D0%B0%202/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201)
+#### [Canvas смена изображения(Кодактор)](https://kodaktor.ru/1b0dc8d)
+#### [Canvas смена изображения(Репозиторий)](https://github.com/DaniilLitvochenko/Portfolio/tree/master/2%20%D1%81%D0%B5%D0%BC.%20%D0%A2%D0%B5%D0%BC%D0%B0%202/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202)
+
+### Тема 3
+#### [График валют(Кодактор)](https://kodaktor.ru/canvas_ec8f0)
